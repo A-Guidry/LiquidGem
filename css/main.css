@@ -26,7 +26,8 @@ nav{
 }
 nav img{
 	width: 20%;
-	height: 90px;
+	height: 60px;
+	padding-top: 12px;
 	margin-left: 10px;
 }
 nav ul{
